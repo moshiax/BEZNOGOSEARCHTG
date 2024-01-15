@@ -5,3 +5,6 @@ pip install telethon
 pip install random
 pip install hashlib 
 pip install winsound
+pip install faker
+pip install time
+pip install tkinter
